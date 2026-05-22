@@ -1,4 +1,8 @@
-# Politics QA (polqa)
+# Politics plotting (polisplot)
+
+<p align="center">
+  <img src="docs/polisplot_logo.png" alt="PolisPlot Logo" width="300"/>
+</p>
 
 A reproducible, deterministic CLI to measure **political bias and positioning** of LLMs on two axes:
 
@@ -64,14 +68,14 @@ polqa config apikey abacus <your-key>
 
 ## Project Structure
 ```
-politics-qa/
+polisplot/
 ├── README.md
 ├── LICENSE
 ├── .env.example
 ├── .gitignore
 ├── bootstrap.sh
 ├── pyproject.toml
-└── polqa/
+└── polisplot/
     ├── __init__.py
     ├── __main__.py
     ├── cli.py
