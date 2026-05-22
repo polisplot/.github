@@ -1,7 +1,7 @@
 # Politics plotting (polisplot)
 
 <p align="center">
-  <img src="docs/polisplot_logo.png" alt="PolisPlot Logo" width="300"/>
+  <img src="docs/polisplot_logo.png" alt="PolisPlot Logo" width="3000"/>
 </p>
 
 A reproducible, deterministic CLI to measure **political bias and positioning** of LLMs on two axes:
